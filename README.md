@@ -36,4 +36,4 @@
 </ul>
 
 <hr/>
-<p align="center">Developed by Mostafa Sharqawy — AI Engineer | Computer Vision</p>
+<p align="center">Developed by abdelkreem abdelhaleem frahat — AI Engineer | Computer Vision</p>
